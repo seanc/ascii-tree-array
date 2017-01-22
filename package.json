@@ -1,7 +1,7 @@
 {
   "name": "ascii-tree-array",
   "description": "Create ascii text trees from multidimensional arrays",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/seanc/ascii-tree-array",
   "author": "Sean Wilson (https://imsean.me)",
   "repository": "seanc/ascii-tree-array",
